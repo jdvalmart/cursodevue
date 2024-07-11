@@ -1,6 +1,6 @@
 # Pagina previa en netlify
 
--[preview page] (https://app.netlify.com/sites/contador-valcer/overview)
+-[preview page] (https://contador-valcer/overview)
 
 
 # segundoVue
